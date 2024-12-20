@@ -34,3 +34,28 @@ A desktop application to streamline and enhance the management of final year pro
 - **Database:** MS SQL Server
 - **Framework:** WinForms
 - **PDF Generation:** iTextSharp
+
+## User Interface
+**Main Form**
+![Main_Form](https://raw.githubusercontent.com/aleenaabid196/Final-Year-Project-Management-System/refs/heads/main/UI_Screenshots/Main%20Form.png)
+
+**Sign Up**
+![Sign_Up](https://raw.githubusercontent.com/aleenaabid196/Final-Year-Project-Management-System/refs/heads/main/UI_Screenshots/Signup.png)
+
+**Dashboard**
+![Dashboard](https://raw.githubusercontent.com/aleenaabid196/Final-Year-Project-Management-System/refs/heads/main/UI_Screenshots/Dashboard.png)
+
+**Sign Up**
+![Sign_Up]()
+**Sign Up**
+![Sign_Up]()
+**Sign Up**
+![Sign_Up]()
+**Sign Up**
+![Sign_Up]()
+**Sign Up**
+![Sign_Up]()
+**Sign Up**
+![Sign_Up]()
+**Sign Up**
+![Sign_Up]()
